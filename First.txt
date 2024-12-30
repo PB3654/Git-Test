@@ -1,1 +1,2 @@
 Hello All,welcome to Git
+i am doing 6th commit
